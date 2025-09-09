@@ -8,7 +8,7 @@ It uses a **two-stage Firefly Algorithm (FA)** and features a clear visualizatio
 
 The main goal is to **reduce power losses** and **improve voltage profiles** by finding the best combination of open and closed switches, while keeping the network radial.
 
----
+
 
 ## 📌 About the Project
 This tool helps **power engineers and researchers** find the best switch settings for the IEEE 33-bus distribution system.  
@@ -19,7 +19,7 @@ Process:
 
 All results—power loss, voltage profiles, and switch settings—are clearly displayed with visualizations of the network and optimization progress.
 
----
+
 
 ## ✨ Features
 - **Two-Stage Firefly Algorithm**
@@ -41,7 +41,7 @@ All results—power loss, voltage profiles, and switch settings—are clearly di
 - **Voltage Profile Plots**  
   - Compares base and optimized cases visually.  
 
----
+
 
 ## 🚀 Getting Started
 
@@ -55,8 +55,4 @@ All results—power loss, voltage profiles, and switch settings—are clearly di
 4. **Stage 2 Optimization** – Refine solution on full network.  
 5. **Results** – Print optimized switches, power losses, and plot voltage profiles.  
 
----
-
-## 🖥️ Usage Example
-After running the script, you’ll see:
 
