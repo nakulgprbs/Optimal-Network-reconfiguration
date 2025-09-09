@@ -2,7 +2,7 @@
 
 # IEEE 33-Bus Network Reconfiguration with Two-Stage Firefly Algorithm and SNG Visualization
 
-Welcome! 🎉  
+
 This project is a **MATLAB implementation** for optimizing the configuration of the **IEEE 33-bus distribution network**.  
 It uses a **two-stage Firefly Algorithm (FA)** and features a clear visualization of the network’s **Simplified Network Graph (SNG)**.  
 
